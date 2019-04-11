@@ -1,0 +1,6 @@
+New Yuudee supports Android 5.0 and above version, IPhone IOS 9 and above version.
+We have finished following devices testing:
+1. IPhone SE, IPhone 6, IPhone 7, IPhone 7 plus, IPhone 8, IPhone 8 plus, IPhone X, Iphone Xs Max
+2. Android phone brands: Huawei, Xiaomi, OPPO, VIVO, Samsung, Android system 5.0-9.0
+
+The Excel named Yuudee_testcase.xls includes Yuudee's detailed test cases, we have tested all the cases using phones above, and all of these cases passed.
